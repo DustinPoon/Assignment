@@ -1,0 +1,532 @@
+Abstract
+Purpose – This study aims to examine how reward expectancy mediates the effect of abusive
+supervision on organizational citizenship behavior. Furthermore, drawing upon regulatory focus
+theory, this paper proposes and tests the moderating role of promotion focus in the proposed mediating
+effect.
+Design/methodology/approach – Both hierarchical regression and PROCESS macro are conducted to
+analyze longitudinal data collected from 142 MBA students in different industries in the People’s Republic of
+China.
+Findings – Results reveal that abusive supervision was negatively related to both organizationdirected citizenship behavior (OCBO) and individual-directed citizenship behavior (OCBI) through
+undermining individual reward expectancies. Results also show that promotion focus moderated the
+negative effect of abusive supervision on reward expectancy, such that the relationship was stronger
+when promotion focus was higher. In addition, the indirect effect of abusive supervision on OCBO and
+OCBI carried through reward expectancy was also stronger among individuals with higher promotion
+focus.
+Originality/value – It contributes to the literature on abusive supervision by offering a new perspective
+regarding the mechanism of abusive supervision influence on organizational citizenship behavior. The
+findings thus shed insights into cognitions and motivations that are associated with organizational
+citizenship behavior. In addition, it is the first to link abusive supervision with regulatory focus theory to
+examine the decrease of organizational citizenship behavior.
+Keywords Promotion focus, Organizational citizenship behavior, Abusive supervision,
+Regulatory focus theory, Reward expectancy
+Paper type Research paper
+Abusive supervision, which is defined as “subordinates’ perceptions of the extent to
+which supervisors engage in the sustained display of hostile verbal and non-verbal
+behaviors, excluding physical contact” (Tepper, 2000, p. 178), has attracted increasing
+attention from scholars (see for reviews, Mackey et al., 2017; Tepper, 2007). Taking the
+form of ignoring, ridiculing, insulting, threatening, undermining subordinates or
+violating their privacy, abusive supervision has been reported to produce a range of
+negative consequences. For example, abusive supervision is positively associated with
+subordinates’ deviant behavior in the workplace (Lian et al., 2012; Tepper et al., 2009,
+2008). Abusive supervision has also been found to have a negative influence on
+organizational citizenship behavior (Aryee et al., 2007; Zellars et al., 2002) and job
+performance (Harris et al., 2007; Peng et al., 2014; Shoss et al., 2013). Abusive supervision
+was estimated to have caused an annual cost of $23.8bn in the USA (Tepper et al., 2006).
+While employees may respond to abusive supervision by engaging in deviant behavior
+(Lian et al., 2012) or performing poorly at the job (Shoss et al., 2013), more often they may feel
+obligated to meet the performance and behavioral standards expected of them should they
+want to stay in their current post. Under such circumstances, employees may tend to reduce
+their organizational citizenship behavior (Zellars et al., 2002). Task performance refers to
+behaviors directed toward formal tasks, responsibilities and duties such as those listed in
+the job description (Williams and Anderson, 1991), whereas OCB refers to voluntary acts
+that go beyond formal job requirements and contributes to organizational effectiveness
+(Organ, 1988; Riketta, 2002).
+Following the convention (Riketta, 2002; Williams and Anderson, 1991), we include both
+organization-targeted OCB (OCBO) and individual-targeted OCB (OCBI) in representing
+subordinates’ OCB. OCBO refers to behaviors which benefit the organization as a whole (e.g.
+conforming to regulations and giving advice), and OCBI refers to behaviors that directly
+benefit specific individuals (e.g. helping coworkers). We theorize that both types of OCB be
+affected by abusive supervision through reward expectancy. Reward expectancy is defined
+as perceived likelihood of gaining material rewards offered by the organization that are
+matched with their contributions (Vroom, 1964). We choose OCB over task performance
+because compared to task performance, OCB is more at the discretion of the employees and
+thus should be more strongly affected by their experiences (e.g. leader treatment) and
+perceptions (e.g. reward expectancy) at work. In addition, OCB such as being a good citizen
+supporting the organizational agenda is also less likely to be constrained by individuals’
+capability and formal work roles, as it would be in the case of performing formal tasks.
+Our study aims to contribute to the literature on abusive supervision in two main ways.
+First, research explaining how abusive supervision negatively affect employees’ OCB has
+primarily focused on the mediating role of subordinates’ justice perceptions, such as procedural
+justice (Zellars et al., 2002) and interactional justice (Aryee et al., 2007; Rafferty and Restubog,
+2011). Studies have also examined how perceived social exchange relationship with the
+supervisor may link abusive supervision to lower levels of OCB (Liu and Wang, 2013; Peng
+et al., 2014; Xu et al., 2012). Extending the existing work that has examined the exchange and
+justice mechanisms as accounting for the influence of abusive supervision on OCB, we draw
+from the expectancy theory to propose and test the mediating role of reward expectancy.
+Unlike existing work that emphasizes the perceived relational or moral implications of leader
+abusive treatment, our focus on reward expectancy takes a more instrumental and
+motivational lens to understand the effect of abusive supervision. As such, our study offers a
+relatively unattended channel through which abusive supervision may affect employees’ OCB.
+Second, we further examine the moderating effect of promotion focus in the relationship
+between abusive supervision and reward expectancy. Regulatory focus contains two
+different foci: the promotion focus and the prevention focus. While the motivations behind
+prevention focus are security, safety and non-losses, promotion focus is defined by an
+orientation toward growth, advancement and achievement (Higgins, 1997). We propose that
+the relationships of abusive supervision with reward expectancy and in turn with OCB
+should be stronger for individuals with higher promotion focus. This is because strong
+tendency to focus on personal gains and achievement (i.e. high promotion focus) motivates
+individuals to readily relate abusive supervision to concerns about their opportunities to be
+rewarded and to advance in the organization. These concerns can be reflected in reward
+Citizenship
+behavior
+501
+expectancy, which reflects the perceived likelihood to be rewarded through contributing to
+the organization such as by exhibiting OCBs.
+To summarize, we propose a model in which abusive supervision is linked to employees’
+OCB through perceptions of reward expectancy. In addition, we theorize that the negative
+relationship between abusive supervision and reward expectancy is particularly strong
+among high promotion-focused employees. Our findings thus shed insights into the
+cognitions and motivations that are associated with engaging in OCB, an important
+employee behavior that is critical to the success of the organizations (Koys, 2001; Podsakoff
+et al., 1997; Podsakoff and Mackenzie, 1997).
+Theory and hypothesis
+Abusive supervision and organizational citizenship behavior
+Studies have consistently reported a negative relationship between abusive supervision and
+OCB (Aryee et al., 2007; Peng et al., 2014; Zellars et al., 2002). For example, Zellars et al. (2002)
+found that abusive supervision hinders OCB directly or indirectly through reducing
+perceptions of procedural justice, which refers to the idea of fairness in the processes that
+resolve disputes and allocate resources (Thibaut and Walker, 1975). In another study, Aryee
+et al. (2007) reported that abusive supervision was negatively associated with both types of
+OCB (i.e. OCBI and OCBO) through interactional justice, the perception of the degree to
+which the people affected by decision are treated by dignity and respect (Bies, 1986). Other
+studies which were carried out in Chinese context examined how the quality of social
+exchange relationship between the subordinate and the supervisor may explain the negative
+influence of abusive supervision on OCB (Liu and Wang, 2013; Peng et al., 2014; Xu et al.,
+2012). Xu et al. (2012), for example, showed that abusive supervision negatively affected
+OCBO and OCBI through lowering leader–member exchange relationship (LMX). In
+summary, studies have primarily focused on justice perceptions (Aryee et al., 2007; Zellars
+et al., 2002) and LMX (Peng et al., 2014; Xu et al., 2012) as the mechanisms that account for
+the negative abusive supervision–OCB relationship. In the following section, we introduce
+the expectancy theory on which we base our hypothesis concerning the mediating role of
+reward expectancy in the relationship between abusive supervision and OCB.
+Mediating role of reward expectancy
+The expectancy theory (Vroom, 1964) states that the extent to which an individual is
+motivated to perform certain task depends on the perceived contingency between the effort
+devoted to the task and the corresponding performance (expectancy I, or E1), and the
+perceived contingency between performance and reward (expectancy II, or E2). Here, we
+focus on the second linkage, which is termed reward expectancy (Sims and Szilagyi, 1975).
+In the workplace, reward expectancy refers to the expectation that an improvement in
+performance and contribution to the organization will be matched by an increase in reward.
+Reward expectancy is different from distributive justice in that it focuses on one’s
+anticipation of being rewarded and therefore is more forward-looking and motivational in
+nature. Specifically, reward expectancy concerns about the specific association between
+one’s own change in performance and corresponding change in rewards, whereas
+distributive justice is a judgement of the equity of one’s output in relation to one’s input
+(Adams and Freedman, 1976). Thus, perceptions of distributive justice also often involve
+social comparisons with others, but reward expectancy primarily focuses on one’s own
+performance change. Compared to distributive justice, higher reward expectancy may
+readily motivate employees’ effort to enhance their contributions to the organization.
+IJCMA
+29,4
+502
+When employees experience silence, ridicule and vituperation from supervisors, they may
+hold that supervisors will not give them a fair evaluation based on their performance and
+contributions. That is, their performance will be underrated by their abusive leaders.
+Consequently, victims of higher levels of abusive supervision may perceive lower reward
+expectancy than their colleagues who receive lesser amount of abuse. Moreover, abusive
+supervision erodes employees’ trust in the organization (Rafferty and Restubog, 2011). Victims
+may infer from their mistreatment by the leader as having a negative influence on their chances
+to be rewarded proportionally to their contributions. As such, they may perceive that their
+higher contributions to the organization will not be fairly rewarded. Based on the reasoning
+above, we hold that individuals under abusive supervision have low reward expectancy.
+Reward expectancy in turn affects employee motivation and behavior at work (Isaac
+et al., 2001). Empirical researches have consistently showed that reward expectancy had a
+positive effect on effort and task performance (Keller and Szilagyi, 1976; Podsakoff et al.,
+1982; Sims and Szilagyi, 1975). While existing studies have chiefly focused on task
+performance, we argue that a higher reward expectancy should also motivate more OCB
+that contributes to the organizational effectiveness. This is because OCB, in addition to task
+performance, contributes to performance evaluation and reward recommendations (Allen
+and Rush, 1998; Kiker and Motowidlo, 1999; Werner, 1994). Specifically, managers often
+include OCB as part of performance evaluation of their employees. For example, Allen and
+Rush (1998) found that supervisors had more interpersonal liking toward subordinates who
+performed more OCB. As a result, the supervisors would provide those subordinates a
+higher overall evaluation and a stronger reward recommendation. Similarly, Kiker and
+Motowidlo (1999) found that both task performance and contextual performance (a concept
+overlapped with OCB) were rewarded (a promotion or a fast-track development program),
+and that two types of performance interacted to influence supervisors’ reward decision.
+Given the way supervisors make performance evaluation and reward recommendation,
+employees may also conceptualize performance as including both task performance and
+OCB. In line with this reasoning, Morrison (1994) found that employees often consider
+citizenship behaviors as expected by their managers. Thus, we argue that employees would
+view OCB as a component of the “performance” or contribution on which their rewards are
+based. Therefore, lower reward expectancy should reduce OCB. As we noted earlier,
+compared to reducing task performance, withdrawing citizenship behaviors (e.g. guiding the
+work of colleagues, attending non-required organizational functions and offering
+constructive suggestions) may also be a relatively safer and volitional choice. The reasoning
+above leads us to argue that employees will engage in less OCBO and OCBI when they have
+lower reward expectancy. Indirect empirical support may be found among studies that have
+reported a positive effect of contingent reward (i.e. leader reward behaviors that are
+contingent on subordinates’ performance) on follower OCB. In their meta-analysis, Podsakoff
+et al. (2006) reported a positive association between leader contingent reward and all five
+forms of employee citizenship behavior (altruism, conscientiousness, sportsmanship,
+courtesy and civic virtue), with effect sizes ranging from 0.09 (civic virtue) to 0.17 (courtesy).
+In summary, we propose that abusive supervision will have a negative influence on
+reward expectancy, which, in turn, will be positively associated with OCBO and OCBI. Our
+first set of hypotheses is as follows:
+H1a. Abusive supervision is negatively related to OCBO as mediated by reward
+expectancy.
+H1b. Abusive supervision is negatively related to OCBI as mediated by reward
+expectancy.
+Citizenship
+behavior
+503
+Moderating effects of promotion focus
+Higgins (1997) proposed the regulatory focus theory, which differentiates self-regulation
+with a promotion focus from self-regulation with a prevention focus. Promotion focus and
+prevention focus are independent, which means that individuals can be either high or low
+with regard to attention to both foci (Higgins, 1997). People with a promotion focus are
+motivated by growth, advancement and achievement and they attempt to align their actual
+selves with their ideal selves (self-standards based on wishes and aspirations), whereas
+security and obligation motivate people with more of a prevention focus and they strive to
+coincide with their ought selves (self-standards based on duties). Because promotion focus
+concerns about one’s sensitivity to potential gains and rewards (Brockner and Higgins, 2001;
+Higgins, 1997), we expect this regulatory focus (vs prevention focus) to moderate the linkage
+between abusive supervision and reward expectancy.
+Individuals with high promotion focus possess strong achievement and advancement
+motivation, namely, they pay much attention to praise, reward and improvement. When
+they experience criticism, insults or ridicule, which are contrary to their value, they would
+more readily concern how these negative leader treatments may signal their potential
+opportunities to be rewarded in the organization. As such, they may perceive a much lower
+reward expectancy, compared to those with lower level of promotion focus. In addition, high
+promotion-focused individuals, compared to low promotion individuals, may be easily
+demotivated by the abusive leader behaviors, which constitute a sharp contrast with their
+typical desire for praises and recognition. In other words, their reward expectancy declines,
+on account that recognition of the supervisor begets or signals work rewards such as pay
+raise and promotion. Thus, we argue that a higher promotion focus will exacerbate the
+negative relationship between abusive supervision and reward expectancy:
+H2. Promotion focus will moderate the negative relationship between abusive
+supervision and reward expectancy, such that the relationship will be stronger
+when the promotion focus is higher.
+Because abusive supervision is hypothesized to be related to OCBO and OCBI indirectly
+through reward expectancy (H1a-H1b) and that promotion focus is expected to moderate the
+relationship between abusive supervision and reward expectancy (H2), it suggests that the
+negative indirect effects of abusive supervision on OCBO and OCBI through reward
+expectancy will be stronger when promotion focus is higher (vs lower). Therefore, we
+propose below a moderated mediation hypothesis (Preacher et al., 2007):
+H3a. Promotion focus will moderate the indirect influence of abusive supervision on
+OCBO through reward expectancy, such that the indirect relationship will be
+stronger when promotion focus is higher.
+H3b. Promotion focus will moderate the indirect influence of abusive supervision on
+OCBI through reward expectancy, such that the indirect relationship will be
+stronger when promotion focus is higher.
+Methods
+Sampling and procedure
+The data were a part of a larger research effort. Only one study variable (i.e. OCBI) was used
+in the other published paper (authors not disclosed for the anonymous review process),
+which includes this data set as one out of its two study samples. The theories and research
+questions between the two studies are also very different. A total of 484 full-time working
+IJCMA
+29,4
+504
+MBA students in a southern province of China were invited to participate in our study. At
+the beginning of the research, participants were informed that all the data were used only for
+this academic study and that no benefits or penalty would be associated with their decision
+to participate as well as with the information they submitted. The first survey was
+conducted in the last week of March 2015 and the second survey at the end of April 2015. We
+sent out the questionnaires and pens to the participants and asked them to return back
+before the class starts. To protect participant privacy and guarantee the efficacy of this
+longitudinal research project, participants created their own unique ID numbers at Time 1
+and were asked to keep their ID numbers throughout the research, including at the times of
+both the first and the second surveys. This study ID number was then used to match the
+information of surveys across the two waves of students assessed.
+Among the 484 MBA students approached, 259 completed the first survey, and 243
+finished the second survey. We finally matched 142 participants who finished the two-wave
+survey and whose ID numbers were valid throughout the research. Among the 142 samples
+that were efficient and were used in our final analysis, 55 per cent were male and 65 per cent
+were in a managerial position. The average age of the participants was 30.7 years (SD = 4.3)
+and their average period of tenure in their organizations was 6.1 years (SD = 4.2).
+Measures
+To test the interaction between abusive supervision and promotion focus on reward
+expectancy over a month, demographic variables and independent variables (i.e. abusive
+supervision and promotion focus) were measured at Time 1, and dependent variables (i.e.
+reward expectancy, OCBO and OCBI) were measured at both Time 1 and Time 2. But, all the
+data of dependent variables (i.e. reward expectancy, OCBO and OCBI) were from Time 2. All
+the items were rated by subordinates.
+As the original scales used were developed in English, all the items were translated into
+Chinese following a back-translation approach (Brislin et al., 1973).
+Abusive supervision. We used seven items from the abusive supervision scale originally
+developed by Tepper (2000). These seven items have been validated by other researchers
+who used a shorter version of abusive supervision scale (Hannah et al., 2013; Peng et al.,
+2014). Respondents rated the frequency with which their supervisors engaged in the
+behavior described in each of the seven items, using a five-point Likert-type scale (1 = never,
+3 = sometimes and 5 = almost always). Items included: “My leader puts me down in front of
+others” and “My leader expresses anger at me when they are angry for another reason.” The
+alpha reliability of this measure was 0.87.
+Promotion focus. We selected four items for promotion scale from the nine-item scale
+developed by Lockwood et al. (2002). The sample item for promotion scale was “I often
+imagine myself experiencing good things that I hope will happen to me.” Participants
+responded to these four items on a seven-point Likert-type scale from 1 (never) to 7 (almost
+always). The alpha reliability of this measure was 0.92.
+Reward expectancy. Participants were asked to report their expectation of being
+rewarded over the past month in their current organization. Participants reported on four
+items from the reward expectancy scale using a five-point Likert-type scale (1 = not at all,
+3 = somewhat and 5 = a great deal). Two items were from House and Dessler (1974) (also see
+Sims et al., 1976) to measure the perceived linkage between effort and rewards. Because we
+emphasize tangible material rewards in our study, we excluded items that referenced to
+respect and recognition by others. These two items focus on promotion and pay increase,
+which are the most frequently used forms of work rewards. The other two items that
+referencing to training opportunities and fringe benefits, adopting from an instrument
+Citizenship
+behavior
+505
+developed by Eisenberger et al. (1997). These two types of rewards are gaining popularity in
+Chinese organizations. The four items were: “As my performance increases my chances for
+higher pay increases,” “As my performance increases my chances for promotion increases,”
+“Doing a better job results in more opportunities for advancement” and “If I do better job I
+will be rewarded with more fringe benefits.” This measure showed good internal reliability
+(a = 0.92).
+OCBO. We used the four-item civic virtue subscale from the OCB measure developed by
+Podsakoff et al. (1990) to measure the civic virtue dimension of OCB. Participants were
+asked to report on the frequency at which the four situations occurred. Two sample items of
+those four situations were: “Attends meetings that are not mandatory, but are considered
+important” and “Attends functions that are not required, but help the company image.” The
+alpha reliability of this measure was 0.91.
+OCBI. The altruism dimension, which includes five items, from the OCB scale developed
+by Podsakoff et al. (1990) was used to measure OCBI. Participants were asked to report on
+the frequency at which the five situations occurred. Two sample items were “Willingly help
+others who have work related problems” and “Is always ready to lend a helping hand to
+those around me.” Alpha reliability for this measure was 0.86.
+Control variables. We originally controlled for gender, organizational tenure and
+organizational identification and prevention focus that might confuse the results throughout
+the analysis (we excluded age as a control variable because it has a high correlation with
+tenure in our sample [r = 0.70], and it was not significantly related to the dependent variable
+when tenure was controlled in the analysis). The results showed no significant difference
+when these control variables were not included. Following the suggestion by Carlson and
+Wu (2012), we therefore reported the analyses that did not include these control variables.
+In a set of supplementary analyses reported later, we controlled for prevention focus and
+organizational identification. Four items were selected from the nine-item scale developed by
+Lockwood et al. (2002) to measure prevention focus at Time 1. The sample item for
+prevention focus scale was “I am anxious that I will fall short of my responsibilities and
+obligations.” The alpha reliability of this measure was 0.78. Organizational identification
+was measured by five items developed by Mael and Ashforth (1992). A sample item was
+“When someone criticizes my organization, it feels like a personal insult.” It was rated by the
+participants at Time 2 and the alpha reliability was 0.86.
+Results
+Confirmatory factor analysis and descriptive analysis
+We conducted confirmatory factor analyses in AMOS 20.0 to test the measurement model of
+the study variables, which include abusive supervision (seven items), promotion focus (four
+items), reward expectancy (four items), OCBO (four items) and OCBI (five items). First, we
+tested the hypothesized five-factor model in which each of the 24 items loaded on its
+corresponding construct. This model showed adequate fit statistics (x
+2
+(252) = 435.87, p <
+0.001, CFI = 0.91, TLI = 0.90, RMSEA = 0.07). We compared this model to the three
+alternative models in which the factor correlation between a pair of constructs (e.g. OCBO
+and OCBI) was fixed to unity. Results showed that our hypothesized measurement model
+outperformed all of the three alternative models.
+Table I summarizes the descriptive statistics, zero-order correlations and the reliabilities
+of the study variables. Notwithstanding the mean of abusive supervision being low (mean =
+1.61), it is compatible with the means reported in the published studies (Tepper et al., 2008;
+Zellars et al., 2002).
+Test of moderation effects
+We conducted a hierarchical regression analysis to test our moderation hypotheses. Table II
+summarized the results of H2, which concerned the interaction between abusive supervision
+and promotion focus on reward expectancy. According to H2, the interactive effect of
+abusive supervision and high promotion focus was significant in predicting reward
+expectancy (b = 0.24, p < 0.01). This significant interaction was plotted in Figure 1. It
+shows that abusive supervision was not significantly related to reward expectancy when
+promotion focus was low (simple slope t-test = 0.23, ns). On the contrary, there was a
+significant negative relationship between abusive supervision and reward expectancy
+(simple slope t-test = 5.30, p <0.01) when the promotion focus was high. Thus, H2 was
+supported (Figure 2).
+Test of mediation and moderated mediation effects
+Both the mediation hypothesis (H1a and H1b) and the moderated mediation hypothesis
+(H3a and H3b) were tested using the PROCESS macro (Hayes, 2013). To determine the
+statistical significance of each indirect effect, a 95 per cent bias-corrected bootstrapped
+confidence interval (“CI”, hereafter) was obtained. The results for the indirect and
+conditional indirect effects are presented in Table III.
+H1a-H1b predicts that subordinates’ reward expectancy mediates the influence of
+abusive supervision on OCBO and OCBI, respectively. In the regression model concerning OCBO as the dependent variable, the 95 per cent CI of the indirect effect excluded zero
+(effect = 0.16, CI = [0.33, 0.05]). Results thus showed significant indirect effect on
+OCBO as mediated by reward expectancy, lending support to H1a. Similarly, the indirect
+effect of abusive supervision on OCBI through reward expectancy was also significant
+(effect = 0.08, CI = [0.18, 0.03]). H1b was therefore also supported.
+In the moderated mediation test, we examined the conditional indirect effects of abusive
+supervision at both high (i.e. mean þ SD) and low (i.e. Mean – SD) values of the moderator
+(promotion focus). Results showed that the indirect effect of abusive supervision on OCBO
+through reward expectancy was significant when promotion focus was high, with the 95
+per cent CI excluding zero (effect = 0.30, CI = [0.55, 0.14]). However, the indirect effect
+was not significant when promotion focus was low (effect = 0.02, CI = [0.17, 0.14]). The
+same pattern of findings was observed for OCBI. Specifically, the indirect effect of abusive
+supervision on OCBI through reward expectancy was significant when the promotion focus
+was high (effect = 0.16, CI = [0.31, 0.05]), but the indirect effect was not significant
+when the promotion focus was low (effect = 0.01, CI = [0.08, 0.10]).
+Figure 2.
+Interaction between
+abusive supervision
+and promotion focus
+in predicting reward
+expectancy 4.00
+4.20
+4.40
+4.60
+4.80
+5.00
+5.20
+5.40
+5.60
+5.80
+6.00
+Low abusive supervision High abusive supervision
+Reward Expectancy
+Low promotion focus
+High promotion focus
+Table III.
+Hierarchical
+regression results of
+the mediation effect
+of reward expectancy
+between abusive
+supervision and
+OCBO and OCBIa
+OCBO (T2) OCBI (T2)
+M1 M2 M3 M1 M2 M3
+Step 1
+Abusive supervision 0.28** 0.17* 0.13 0.07 0.01 0.02
+Change in R2 0.08** 0.01
+Step 2
+Reward expectancy (T2) 0.38** 0.26** 0.28** 0.24**
+Change in R2 0.13** 0.07**
+Step 3
+Organizational identification (T2) 0.36** 0.13
+Change in R2 0.11** 0.01
+Notes: a
+N = 142 (list wise); *p < 0.05; **p < 0.01
+Citizenship
+behavior
+509
+Supplementary analyses
+Supplementary analyses were conducted to:
+ examine the moderating role of prevention focus; and
+ rule out the possibility that organizational identification may fully account the
+mediating effect we observed regarding reward expectancy.
+First of all, while Higgins (1997) theorized that promotion focus and prevention focus are two
+independent constructs, in other words, individuals can enjoy a high promotion focus and
+high prevention focus at the same time, empirical studies often reported a negative
+relationship between these two constructs (Brockner and Higgins, 2001). We therefore
+controlled for prevention focus in testing the interaction effect of promotion focus in a
+supplementary analysis. In this analysis, we also explored the interaction between
+prevention focus and abusive supervision. As reported in Table II (see Step 3), the interaction
+involving prevention focus was not significant (b = 0.09, ns). In addition, our hypothesized
+interaction between promotion focus and abusive supervision remained significant (b =
+0.22, p < 0.01). Results thus are in line with the conceptualization of prevention focus and
+promotion focus as two independent dimensions (vs the opposite ends of one dimension).
+Second, studies have shown that organizational identification explained the influence of
+abusive supervision on OCB and ethical behaviors that benefit the organization (Hannah et al.,
+2013). In another supplementary analysis, we controlled for organizational identification to
+examine whether reward expectancy explained the variance in OCB over and beyond
+organizational identification. As reported in Table III (see M3), reward expectancy was
+significantly related to both OCBO (b = 0.26, p < 0.01) and OCBI (b = 0.24, p < 0.01), after
+controlling for organizational identification. As reported in Table IV, as with the findings
+reported in testing our hypothesis, the mediation effect of reward expectancy on the OCB
+variables remained significant. The findings regarding the moderated mediation effects also
+remained the same (Table IV). To summarize, the supplementary analyses showed that reward
+expectancy accounts for the negative effect of abusive supervision on OCBO and OCBI, even
+after controlling for the mediating effect of organizational identification.
+Discussion
+We examined how abusive supervision affects subordinates’ expectations that they will be
+rewarded in ways that affect their OCBO as well as OCBI and the effect of promotion focus
+on the connections between them. Previous researches have already reported the negative
+relationship between abusive supervision and OCBO and OCBI. We extended this literature
+by developing and supporting a model in which abusive supervision influences OCBO and
+OCBI through a novel reward expectancy mechanism. Besides, we investigated a new
+dispositional variable, promotion focus, of which the effects have not yet been explored
+under abusive supervision. These findings, and their implications for future research and
+practice, are discussed below.
+Theoretical implications
+Our findings extend preceding studies in suggesting that abusive supervision undermines
+subordinates’ reward expectancy and then reduces OCBO and OCBI. This pathway is new
+in abusive supervision literature and warrants future research. Our findings reached an
+agreement with Lian et al. (2002), who found that abusive supervision has a negative effect
+on subordinates’ perceived likelihood of rewards. We hold that abusive supervision reduces
+reward expectancy of subordinates, because it undermines employees’ trust in supervisor
+about giving evaluation impartially and belief in the organization of the chances to be
+rewarded fairly (Tepper, 2000). Researches have pointed out that employees regard high
+OCB as a way to gain rewards (Allen and Rush, 1998; Kiker and Motowidlo, 1999).
+Employees who feel a low performance-reward contingency, which means they will not be
+rewarded even though they perform well, would withdraw OCBO and OCBI.
+The interactive impact of abusive supervision and promotion focus on reward
+expectancy, which has not been explored previously, indicates that once high promotionfocused employees suffer abusive supervision, they would lower their expectancies of
+rewards. The indirect effect of the interaction between abusive supervision and promotion
+focus on OCBO and OCBI through reward expectancy also indicates that for individuals
+with high promotion focus, the more abusive supervision they perceive, the more they will
+be demotivated, as supervisors’ abusive behaviors stand for no recognition which are vital
+for pay raise and promotion recommendation, then they would not be disposed to participate
+in OCBO and OCBI.
+Practical implications
+Our findings, which suggest that abusive supervision have harmful effects on employees’
+OCBO and OCBI through damaging reward expectancy and that promotion focus can
+moderate these relationships, lead to implications for management practice. First, it is disbeneficial for organizations to indulge in abusive supervision due to the high hidden costs
+thereof. To reduce thus the detrimental effects, managers are required to be educated and
+aware of the various detrimental effects of abusive behavior, such as the decline in task
+performance (Harris et al., 2007; Peng et al., 2014; Shoss et al., 2013) and OCB (Aryee et al.,
+2007; Ouyang et al., 2015; Zellars et al., 2002), as well the increase in deviant behaviors (Lian
+et al., 2012; Tepper et al., 2009, 2008). It is also essential for organizations to train their
+supervisors and improve their managerial competence and skills. A work shift or even a
+suspension should be given to those who remain incorrigible or unqualified.
+Second, taking the mediating role of reward expectancy into account, organizations need
+to declare some norms and rules such that rewards are rendered in accordance with
+individuals’ performance and exceptions are not allowed. We suppose it can mitigate the
+negative effects to some degree. In addition, senior managers should set an example to
+Citizenship
+behavior
+511
+supervisors in conforming to organizational regulations to create an atmosphere of fairness,
+which can augment the trust of employees in their supervisors concerning performancebased rewards. As it had been proved that the behavior of superior managers positively
+affected that of middle managers and first-line managers, once those in power engage in
+abusive behaviors, administrators acquire the trait and follow suite given the opportunity
+(Liu et al., 2012; Mawritz et al., 2012). On the contrary, they will administer rewards matched
+with subordinates’ performance when authorities manifest it more.
+At length, our research proposes that individuals with higher promotion focus would be
+more likely to perceive lower reward expectancy as a result of their abuse by the supervisor,
+and consequently withdraw OCBO and OCBI. Managers thus may need to realize the
+significant negative consequences of abusive supervision on promotion-focused employees
+who also tend to exhibit more creativity and high performance (Friedman and Forster, 2001;
+Neubert et al., 2008). Moreover, it is rewarding for organizations to place employees with
+high promotion focus in situations that match their advancement motives, for example,
+express words such as aspirations and wishes frequently to them. Therefore, promotionfocused individuals will be motivated to bring more positive outcomes.
+Limitations and future research
+There are some limitations that ought to be acknowledged in our study. To begin with, our
+questionnaire recovery rate was low due to the two-wave matching problem. We sent out
+484 questionnaires in two periods, and received 259 by Time 1, and 243 by Time 2, so we
+eventually matched just 142 participants. Besides, our data were all collected from one
+source. Especially, we just obtained organizational citizenship behavior data from
+participants, rather than their supervisors, and individuals tend to report higher than their
+actual scores on it. Nevertheless, in future, research should use an adequate number of
+samples to check the present findings.
+A second limitation is that we did not include other variables that would influence OCBO
+and OCBI, which were pointed out by previous investigations. That is to say, there might be
+other causes leading to employees’ withdrawal of OCBO and OCBI and not just abusive
+supervision. Nonetheless, the reverse inducement of abusive supervision has been verified.
+We argue that future studies can control other variables, which are related to OCBO and
+OCBI.
+We only tested our model in China, which has a high power distance and strong
+collectivism (Aryee et al., 2007) and this is the final limitation. The generalizability of our
+findings needs further attention, as it has been proposed that the magnitude of outcomes
+stemming from abusive supervision will be distinct in different cultures (Tepper, 2007). Of
+course, there are also numerous published studies drawing similar conclusions in diverse
+cultural settings. Hence, prospective researchers can conduct similar work in both Confucian
+cultures and Western cultures.
+Conclusion
+We found that reward expectancy partially accounted for the negative effects of abusive
+supervision on employees’ OCBO and OCBI, and promotion focus played a moderating role
+between those relationships. Specifically, promotion focus exacerbated the negative effect of
+abusive supervision on reward expectancy and the interaction of high promotion focus and
+abusive supervision exerted a negative influence on OCBO and OCBI through diminishing
+reward expectancy. Our findings are vital as they offer a novel perspective from which to
+comprehend how abusive supervision acts on OCBO and OCBI, and the work integrates
+IJCMA
+29,4
+512
+abusive supervision literature with the concept of promotion focus. Besides, the work
+indicates approaches able to cope with abusive supervision in a reasonable fashion
